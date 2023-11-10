@@ -1,11 +1,17 @@
 .App {
   text-align: center;
 }
+:root {
+  --color-darkest: #343a40;
+  --color-dark: #495057;
+  --color-medium: #ced4da;
+  --color-light: #f1f3f5;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+  --color-theme: #1098ad;
+  --color-accent: #ffa94d;
 }
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
