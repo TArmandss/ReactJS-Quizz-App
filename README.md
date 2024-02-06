@@ -9,7 +9,7 @@
  
 ## Tools I used
 
- 1. UseReducer()h ook
+ 1. UseReducer() 
  2. Tailwind
  3. Framer Motion
 
